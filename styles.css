@@ -48,7 +48,7 @@
   line-height: 1;
   font-weight: bold;
   list-style: none;
-  color: #fff;
+  color: green;
 }
 
 .navbar ul li a:hover {
@@ -60,7 +60,7 @@
   border: none;
   border-radius: 8px;
   padding: 10px 25px;
-  background-color: #c5d1ec;
+  background-color: green;
   color: #000000;
   text-align: center;
   font-weight: bold;
